@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   user android for--pack temp "<android>[file installation]_/edit/ for:(model)"[Farsi]""={ 
  {سلام'مدل زبان گفتاری« تشخیص و ترجیح tts Google » : جایی گیری شده  مانند 'فایل پردازش زبان فارسی، زبان گویا}" 
  ( Persian)transforme:"فارسی "
+Google languages for:(model)"setting fix: to' LLM" فارسی«
